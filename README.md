@@ -1,5 +1,5 @@
 # Foldable-Products
-A repository that compiles a table of interesting foldable products available on the market. Made by Onri Jay Benally.
+A repository that compiles data on interesting foldable products available on the market. Made by Onri Jay Benally.
 
 ---
 
@@ -45,3 +45,13 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 | Collapsible | Kettle | Sea to Summit X-Pot Kettle, collapsible silicone kettles | Silicone wall collapse with rigid base | Backpacking, camping kitchens, RV storage | `collapsible`, `kettle`, `telescoping-collapse`, `kitchen` |
 | Collapsible | Traffic cone | Collapsible emergency traffic cones | Telescoping cone body | Roadside safety, fleet vehicles, emergency kits | `collapsible`, `traffic-cone`, `telescoping-collapse`, `safety` |
 | Collapsible | Shopping cart | Clax cart, folding utility carts, collapsible hand carts | Folding frame and nested basket | Groceries, trade shows, mobile utility hauling | `collapsible`, `cart`, `frame-assisted-collapse`, `utility` |
+
+---
+
+<img width="2599" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/25655c7c-908d-40a9-a127-0a02dfad0fca" />
+
+<img width="2099" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/99c70c11-72ca-4fb5-b4d8-25daf0419339" />
+
+<img width="2349" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/b9ba1cec-3a62-49e6-92a6-33d2b71c4c0c" />
+
+<img width="2574" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/ef8c24ac-51ea-4413-a7ff-f823ed6dd722" />
