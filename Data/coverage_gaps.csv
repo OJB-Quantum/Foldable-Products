@@ -1,0 +1,22 @@
+target_market_category,covered,record_count,families_present
+computer peripheral,True,1,foldable
+portable keyboard,False,0,
+foldable computer,True,2,foldable
+foldable smartphone,True,2,foldable
+foldable monitor,False,0,
+folding bicycle,True,9,foldable
+folding e-bike,True,2,foldable
+urban mobility safety,True,3,"collapsible, hybrid"
+folding watercraft,True,2,foldable
+foldable solar panel,True,2,foldable
+folding drone,True,1,foldable
+portable workstation,True,2,"collapsible, foldable"
+folding furniture,True,2,"foldable, unclassified"
+collapsible drinkware,True,2,collapsible
+collapsible cookware,False,0,
+collapsible storage,False,0,
+collapsible outdoor gear,True,2,collapsible
+rollable electronics,True,1,hybrid
+inflatable recreation,True,1,inflatable
+scientific education,True,1,foldable
+foldable headphones,True,8,foldable
