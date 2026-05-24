@@ -53,3 +53,41 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 <img width="2349" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/b9ba1cec-3a62-49e6-92a6-33d2b71c4c0c" />
 
 <img width="2574" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/ef8c24ac-51ea-4413-a7ff-f823ed6dd722" />
+
+---
+
+### Mechanism and Design References
+
+- Howell, L. L. *Compliant Mechanisms*. Wiley, 2001.
+- Howell, L. L., Magleby, S. P., and Olsen, B. M., editors. *Handbook of Compliant Mechanisms*. Wiley, 2013.
+- Demaine, E. D., and O'Rourke, J. *Geometric Folding Algorithms: Linkages, Origami, Polyhedra*. Cambridge University Press, 2007.
+- Callister, W. D., and Rethwisch, D. G. *Materials Science and Engineering: An Introduction*. Wiley.
+- Ashby, M. F. *Materials Selection in Mechanical Design*. Butterworth-Heinemann.
+- Gibson, L. J., and Ashby, M. F. *Cellular Solids: Structure and Properties*. Cambridge University Press.
+
+---
+
+## License
+
+This repository is currently released under the GNU General Public License v3.0.
+
+---
+
+## Citation
+
+If this repository is useful for your work, teaching, design research, or product taxonomy studies, please cite it as:
+
+Benally, O. J. (2026). *Foldable-Products: An open catalog of foldable and collapsible product designs*. GitHub. https://github.com/OJB-Quantum/Foldable-Products
+
+### BibTeX
+
+```bibtex
+@misc{benally_foldable_products_2026,
+  author       = {Benally, Onri Jay},
+  title        = {{Foldable-Products: An Open Catalog of Foldable and Collapsible Product Designs}},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/OJB-Quantum/Foldable-Products}},
+  url          = {https://github.com/OJB-Quantum/Foldable-Products}
+}
