@@ -1,6 +1,6 @@
 # Discovery Protocol
 
-This document describes how the repository expands beyond manually curated seed
+This document shows how the repository expands beyond manually curated seed
 products.
 
 ## Goal
