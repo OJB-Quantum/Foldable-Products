@@ -3,11 +3,12 @@
 ## Foldable
 
 Foldable products compact through designed creases, hinges, flexures, flexible
-display laminates, or origami-like panel networks. The deployed structure
-typically preserves a clear geometric relationship to the stored structure.
+display laminates, headphone hinge systems, or origami-like panel networks. The
+deployed structure typically preserves a clear geometric relationship to the
+stored structure.
 
 Representative subtypes include flexible-display folds, rigid-hinge folds,
-origami-panel folds, and snap-flexure folds.
+origami-panel folds, snap-flexure folds, and headphone-hinge folds.
 
 ## Collapsible
 
