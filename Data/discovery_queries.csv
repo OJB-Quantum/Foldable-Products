@@ -1,0 +1,58 @@
+query_id,family_hint,query
+q0001,foldable,foldable computer mouse product
+q0002,foldable,foldable bluetooth keyboard product
+q0003,foldable,foldable travel keyboard product
+q0004,foldable,foldable bicycle product official
+q0005,foldable,folding e-bike product official
+q0006,foldable,foldable bicycle helmet product official
+q0007,foldable,foldable motorcycle helmet product
+q0008,foldable,foldable kayak product official
+q0009,foldable,folding canoe product official
+q0010,foldable,foldable paddle board product
+q0011,foldable,foldable solar panel product official
+q0012,foldable,foldable display product official
+q0013,foldable,foldable OLED laptop product
+q0014,foldable,foldable smartphone product official
+q0015,foldable,foldable monitor product official
+q0016,foldable,folding drone product official
+q0017,foldable,foldable stroller product official
+q0018,foldable,folding wagon product official
+q0019,foldable,folding camping chair product official
+q0020,foldable,folding camping table product official
+q0021,foldable,folding treadmill product official
+q0022,foldable,foldable desk product official
+q0023,foldable,foldable bed product official
+q0024,foldable,foldable wheelchair product official
+q0025,foldable,foldable crutch product official
+q0026,foldable,foldable paper microscope product
+q0027,collapsible,collapsible water bottle product official
+q0028,collapsible,collapsible soft flask product
+q0029,collapsible,collapsible cup product official
+q0030,collapsible,collapsible coffee cup product official
+q0031,collapsible,collapsible bowl product official
+q0032,collapsible,collapsible food container product
+q0033,collapsible,collapsible lunch box product
+q0034,collapsible,collapsible cooler product official
+q0035,collapsible,collapsible bucket product official
+q0036,collapsible,collapsible laundry basket product
+q0037,collapsible,collapsible storage bin product
+q0038,collapsible,collapsible crate product official
+q0039,collapsible,collapsible traffic cone product
+q0040,collapsible,collapsible lantern product official
+q0041,collapsible,collapsible trekking pole product
+q0042,collapsible,collapsible fishing rod product
+q0043,collapsible,collapsible pet bowl product official
+q0044,collapsible,collapsible measuring cups product
+q0045,collapsible,collapsible kettle product
+q0046,collapsible,collapsible sink product camping
+q0047,collapsible,collapsible shovel product
+q0048,collapsible,collapsible cart product official
+q0049,rollable,rollable display product official
+q0050,rollable,rollable keyboard product
+q0051,rollable,roll up piano keyboard product
+q0052,rollable,roll up solar charger product
+q0053,inflatable,inflatable kayak product official
+q0054,inflatable,inflatable paddle board product official
+q0055,inflatable,inflatable air mattress product official
+q0056,modular,flat pack furniture product official
+q0057,modular,modular collapsible furniture product
