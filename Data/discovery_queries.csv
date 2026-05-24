@@ -1,58 +1,154 @@
-query_id,family_hint,query
-q0001,foldable,foldable computer mouse product
-q0002,foldable,foldable bluetooth keyboard product
-q0003,foldable,foldable travel keyboard product
-q0004,foldable,foldable bicycle product official
-q0005,foldable,folding e-bike product official
-q0006,foldable,foldable bicycle helmet product official
-q0007,foldable,foldable motorcycle helmet product
-q0008,foldable,foldable kayak product official
-q0009,foldable,folding canoe product official
-q0010,foldable,foldable paddle board product
-q0011,foldable,foldable solar panel product official
-q0012,foldable,foldable display product official
-q0013,foldable,foldable OLED laptop product
-q0014,foldable,foldable smartphone product official
-q0015,foldable,foldable monitor product official
-q0016,foldable,folding drone product official
-q0017,foldable,foldable stroller product official
-q0018,foldable,folding wagon product official
-q0019,foldable,folding camping chair product official
-q0020,foldable,folding camping table product official
-q0021,foldable,folding treadmill product official
-q0022,foldable,foldable desk product official
-q0023,foldable,foldable bed product official
-q0024,foldable,foldable wheelchair product official
-q0025,foldable,foldable crutch product official
-q0026,foldable,foldable paper microscope product
-q0027,collapsible,collapsible water bottle product official
-q0028,collapsible,collapsible soft flask product
-q0029,collapsible,collapsible cup product official
-q0030,collapsible,collapsible coffee cup product official
-q0031,collapsible,collapsible bowl product official
-q0032,collapsible,collapsible food container product
-q0033,collapsible,collapsible lunch box product
-q0034,collapsible,collapsible cooler product official
-q0035,collapsible,collapsible bucket product official
-q0036,collapsible,collapsible laundry basket product
-q0037,collapsible,collapsible storage bin product
-q0038,collapsible,collapsible crate product official
-q0039,collapsible,collapsible traffic cone product
-q0040,collapsible,collapsible lantern product official
-q0041,collapsible,collapsible trekking pole product
-q0042,collapsible,collapsible fishing rod product
-q0043,collapsible,collapsible pet bowl product official
-q0044,collapsible,collapsible measuring cups product
-q0045,collapsible,collapsible kettle product
-q0046,collapsible,collapsible sink product camping
-q0047,collapsible,collapsible shovel product
-q0048,collapsible,collapsible cart product official
-q0049,rollable,rollable display product official
-q0050,rollable,rollable keyboard product
-q0051,rollable,roll up piano keyboard product
-q0052,rollable,roll up solar charger product
-q0053,inflatable,inflatable kayak product official
-q0054,inflatable,inflatable paddle board product official
-q0055,inflatable,inflatable air mattress product official
-q0056,modular,flat pack furniture product official
-q0057,modular,modular collapsible furniture product
+query_id,family_hint,category_hint,query
+q0001,foldable,computer mouse,foldable computer mouse product
+q0002,foldable,bluetooth keyboard,foldable bluetooth keyboard product
+q0003,foldable,travel keyboard,foldable travel keyboard product
+q0004,foldable,headphones,foldable headphones product official
+q0005,foldable,headphones,folding headphones product official
+q0006,foldable,headphones,fold-flat headphones product official
+q0007,foldable,headphones,travel headphones foldable design product
+q0008,foldable,bicycle,foldable bicycle product official
+q0009,foldable,bicycle,folding bicycle product official
+q0010,foldable,e-bike,folding e-bike product official
+q0011,foldable,bicycle helmet,foldable bicycle helmet product official
+q0012,foldable,motorcycle helmet,foldable motorcycle helmet product
+q0013,foldable,kayak,foldable kayak product official
+q0014,foldable,canoe,folding canoe product official
+q0015,foldable,paddle board,foldable paddle board product
+q0016,foldable,solar panel,foldable solar panel product official
+q0017,foldable,display,foldable display product official
+q0018,foldable,OLED laptop,foldable OLED laptop product
+q0019,foldable,smartphone,foldable smartphone product official
+q0020,foldable,monitor,foldable monitor product official
+q0021,foldable,drone,folding drone product official
+q0022,foldable,stroller,foldable stroller product official
+q0023,foldable,wagon,folding wagon product official
+q0024,foldable,camping chair,folding camping chair product official
+q0025,foldable,camping table,folding camping table product official
+q0026,foldable,treadmill,folding treadmill product official
+q0027,foldable,desk,foldable desk product official
+q0028,foldable,bed,foldable bed product official
+q0029,foldable,wheelchair,foldable wheelchair product official
+q0030,foldable,crutch,foldable crutch product official
+q0031,foldable,paper microscope,foldable paper microscope product
+q0032,collapsible,water bottle,collapsible water bottle product official
+q0033,collapsible,soft flask,collapsible soft flask product
+q0034,collapsible,cup,collapsible cup product official
+q0035,collapsible,coffee cup,collapsible coffee cup product official
+q0036,collapsible,bowl,collapsible bowl product official
+q0037,collapsible,food container,collapsible food container product
+q0038,collapsible,lunch box,collapsible lunch box product
+q0039,collapsible,cooler,collapsible cooler product official
+q0040,collapsible,bucket,collapsible bucket product official
+q0041,collapsible,laundry basket,collapsible laundry basket product
+q0042,collapsible,storage bin,collapsible storage bin product
+q0043,collapsible,crate,collapsible crate product official
+q0044,collapsible,traffic cone,collapsible traffic cone product
+q0045,collapsible,lantern,collapsible lantern product official
+q0046,collapsible,trekking pole,collapsible trekking pole product
+q0047,collapsible,fishing rod,collapsible fishing rod product
+q0048,collapsible,pet bowl,collapsible pet bowl product official
+q0049,collapsible,measuring cups,collapsible measuring cups product
+q0050,collapsible,kettle,collapsible kettle product
+q0051,collapsible,camping sink,collapsible sink product camping
+q0052,collapsible,shovel,collapsible shovel product
+q0053,collapsible,cart,collapsible cart product official
+q0054,rollable,display,rollable display product official
+q0055,rollable,keyboard,rollable keyboard product
+q0056,rollable,piano keyboard,roll up piano keyboard product
+q0057,rollable,solar charger,roll up solar charger product
+q0058,inflatable,kayak,inflatable kayak product official
+q0059,inflatable,paddle board,inflatable paddle board product official
+q0060,inflatable,air mattress,inflatable air mattress product official
+q0061,modular,furniture,flat pack furniture product official
+q0062,modular,furniture,modular collapsible furniture product
+q0063,foldable,folding bicycle,Montague folding bike official
+q0064,foldable,folding bicycle,Montague full size folding bicycle product
+q0065,foldable,folding bicycle,Montague Paratrooper folding bike
+q0066,foldable,folding bicycle,Montague Navigator folding bike
+q0067,foldable,folding bicycle,Montague Crosstown folding bike
+q0068,foldable,folding bicycle,site:montaguebikes.com folding bike
+q0069,foldable,folding bicycle,Brompton folding bike official
+q0070,foldable,folding bicycle,Brompton foldable city bike product
+q0071,foldable,folding bicycle,Brompton electric folding bike official
+q0072,foldable,folding bicycle,Brompton C Line folding bike
+q0073,foldable,folding bicycle,Brompton P Line folding bike
+q0074,foldable,folding bicycle,Brompton T Line folding bike
+q0075,foldable,folding bicycle,site:brompton.com folding bike
+q0076,foldable,folding bicycle,Tern folding bike official
+q0077,foldable,folding bicycle,Tern Vektron folding electric bike
+q0078,foldable,folding bicycle,Tern BYB folding bike
+q0079,foldable,folding bicycle,Tern Link folding bike
+q0080,foldable,folding bicycle,Tern Verge folding bike
+q0081,foldable,folding bicycle,site:ternbicycles.com folding bike
+q0082,foldable,folding bicycle,DAHON folding bike official
+q0083,foldable,folding bicycle,DAHON folding electric bike official
+q0084,foldable,folding bicycle,DAHON Mariner folding bike
+q0085,foldable,folding bicycle,DAHON K-Feather folding electric bike
+q0086,foldable,folding bicycle,DAHON Vigor folding bike
+q0087,foldable,folding bicycle,site:dahon.com folding bike
+q0088,foldable,folding bicycle,site:usa.dahon.com folding bike
+q0089,foldable,folding bicycle,Bike Friday folding travel bike official
+q0090,foldable,folding bicycle,Bike Friday New World Tourist folding bike
+q0091,foldable,folding bicycle,Bike Friday pakiT folding bike
+q0092,foldable,folding bicycle,Bike Friday All-Packa folding bike
+q0093,foldable,folding bicycle,Bike Friday folding e-bike
+q0094,foldable,folding bicycle,site:bikefriday.com folding bike
+q0095,foldable,folding bicycle,Birdy folding bike official
+q0096,foldable,folding bicycle,Birdy bicycle folding bike product
+q0097,foldable,folding bicycle,site:birdybicycle.com folding bike
+q0098,foldable,folding bicycle,Vello folding bike official
+q0099,foldable,folding bicycle,Vello Bike foldable bicycle product
+q0100,foldable,folding bicycle,Vello folding e-bike official
+q0101,foldable,folding bicycle,site:vello.bike folding bike
+q0102,foldable,folding bicycle,Helix folding bike official
+q0103,foldable,folding bicycle,Helix titanium folding bicycle product
+q0104,foldable,folding bicycle,site:helix.ca folding bike
+q0105,foldable,folding e-bike,Gocycle folding electric bike official
+q0106,foldable,folding e-bike,Gocycle foldable e-bike product
+q0107,foldable,folding e-bike,site:gocycle.com folding electric bike
+q0108,foldable,folding bicycle,ZiZZO folding bike official
+q0109,foldable,folding bicycle,ZiZZO foldable bicycle product
+q0110,foldable,folding bicycle,site:zizzo.bike folding bike
+q0111,foldable,folding bicycle,Citizen Bike folding bike official
+q0112,foldable,folding bicycle,Citizen foldable bicycle product
+q0113,foldable,folding bicycle,site:citizenbike.com folding bike
+q0114,foldable,folding bicycle,STRiDA folding bike official
+q0115,foldable,folding bicycle,STRiDA triangular folding bicycle product
+q0116,foldable,folding bicycle,site:strida.com folding bike
+q0117,foldable,folding bicycle,Hummingbird folding bike official
+q0118,foldable,folding bicycle,Hummingbird lightweight folding bicycle product
+q0119,foldable,folding bicycle,site:hummingbirdbike.com folding bike
+q0120,foldable,folding bicycle,Decathlon Tilt folding bike official
+q0121,foldable,folding bicycle,Btwin Tilt folding bicycle product
+q0122,foldable,folding bicycle,site:decathlon.com folding bike Tilt
+q0123,foldable,foldable headphones,Sony foldable headphones official
+q0124,foldable,foldable headphones,Sony WH-1000XM4 swivel foldable structure
+q0125,foldable,foldable headphones,Sony WH-1000XM4 headphones folded inwards
+q0126,foldable,foldable headphones,site:sony.com WH-1000XM4 swivel foldable headphones
+q0127,foldable,foldable headphones,Bose foldable headphones official
+q0128,foldable,foldable headphones,Bose QuietComfort foldable headphones
+q0129,foldable,foldable headphones,Bose QuietComfort Ultra foldable design
+q0130,foldable,foldable headphones,site:bose.com foldable headphones QuietComfort
+q0131,foldable,foldable headphones,soundcore foldable headphones official
+q0132,foldable,foldable headphones,soundcore Space Q45 foldable hinges
+q0133,foldable,foldable headphones,soundcore Space One Pro super foldable headphones
+q0134,foldable,foldable headphones,site:soundcore.com foldable headphones
+q0135,foldable,foldable headphones,Sennheiser foldable headphones official
+q0136,foldable,foldable headphones,Sennheiser HD 400S lightweight foldable headphones
+q0137,foldable,foldable headphones,Sennheiser HD 100 folded headphones
+q0138,foldable,foldable headphones,site:sennheiser-hearing.com foldable headphones
+q0139,foldable,foldable headphones,JBL foldable headphones official
+q0140,foldable,foldable headphones,JBL folding headphones product
+q0141,foldable,foldable headphones,site:jbl.com foldable headphones
+q0142,foldable,foldable headphones,Audio-Technica foldable headphones official
+q0143,foldable,foldable headphones,Audio-Technica fold-flat headphones product
+q0144,foldable,foldable headphones,site:audio-technica.com foldable headphones
+q0145,foldable,foldable headphones,Beats foldable headphones official
+q0146,foldable,foldable headphones,Beats Solo foldable headphones
+q0147,foldable,foldable headphones,site:beatsbydre.com foldable headphones
+q0148,foldable,foldable headphones,Skullcandy foldable headphones official
+q0149,foldable,foldable headphones,Skullcandy folding headphones product
+q0150,foldable,foldable headphones,site:skullcandy.com foldable headphones
+q0151,foldable,foldable headphones,Marshall foldable headphones official
+q0152,foldable,foldable headphones,Marshall headphones collapsible design product
+q0153,foldable,foldable headphones,site:marshallheadphones.com foldable headphones
