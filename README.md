@@ -48,9 +48,15 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 
 ---
 
-<img width="2349" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/b9ba1cec-3a62-49e6-92a6-33d2b71c4c0c" />
+<img width="2425" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/4357fc23-9595-48a2-9b5f-51588a96bb91" />
 
-<img width="2574" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/ef8c24ac-51ea-4413-a7ff-f823ed6dd722" />
+<img width="3074" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/c2d6dfac-6310-4bff-8c37-286f90530816" />
+
+<img width="3074" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/a838379b-c6e0-47cf-baee-5b8a19d230e4" />
+
+<img width="3074" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/2e9f2a64-da1e-4d07-9a35-6ebd2a016e05" />
+
+<img width="2175" height="auto" alt="Untitled" src="https://github.com/user-attachments/assets/98aea679-75f8-4535-9668-e7b2f7e9b0fe" />
 
 ---
 
