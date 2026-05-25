@@ -7,6 +7,91 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 
 ---
 
+```
+flowchart TD
+    A["Foldable, Collapsible, and Compact-Transform Products"]
+
+    A --> B["Core Value"]
+    A --> C["Transformation Families"]
+    A --> D["Design Advantages"]
+    A --> E["Everyday Utility"]
+    A --> F["Atlas Perspective"]
+
+    B --> B1["Reversible compacting transformation"]
+    B --> B2["Large use-state volume"]
+    B --> B3["Small storage-state volume"]
+    B --> B4["Repeatable transition between states"]
+
+    C --> C1["Foldable"]
+    C --> C2["Collapsible"]
+    C --> C3["Origami"]
+    C --> C4["Rollable"]
+    C --> C5["Modular"]
+
+    C1 --> C1a["Hinge folds"]
+    C1 --> C1b["Frame folds"]
+    C1 --> C1c["Flexible display folds"]
+    C1 --> C1d["Segmented shell folds"]
+
+    C2 --> C2a["Telescoping collapse"]
+    C2 --> C2b["Soft-wall compression"]
+    C2 --> C2c["Nested volume reduction"]
+    C2 --> C2d["Pop-up or frame-assisted collapse"]
+
+    C3 --> C3a["Crease-pattern folding"]
+    C3 --> C3b["Folded-panel structures"]
+    C3 --> C3c["Flat sheet to useful 3D form"]
+
+    C4 --> C4a["Roll-up membranes"]
+    C4 --> C4b["Roll-top closures"]
+    C4 --> C4c["Flexible laminates"]
+    C4 --> C4d["Slatted roll mechanisms"]
+
+    C5 --> C5a["Reconfigurable modules"]
+    C5 --> C5b["Stackable systems"]
+    C5 --> C5c["Repairable assemblies"]
+    C5 --> C5d["Expandable product architectures"]
+
+    D --> D1["Storage efficiency"]
+    D --> D2["Transportability"]
+    D --> D3["Low volume per unit during storage"]
+    D --> D4["Potential for compliant mechanisms"]
+    D --> D5["Few-part assemblies"]
+    D --> D6["Possible monolithic design"]
+
+    D4 --> D4a["Elastic flexures replace hinges"]
+    D4 --> D4b["Geometry supplies motion guidance"]
+    D4 --> D4c["Reduced part count can improve manufacturability"]
+
+    E --> E1["Travel computing"]
+    E --> E2["Urban mobility"]
+    E --> E3["Outdoor and camping gear"]
+    E --> E4["Compact kitchens and homes"]
+    E --> E5["Emergency power and field use"]
+    E --> E6["Repairable and reconfigurable consumer products"]
+
+    F --> F1["Searchable product taxonomy"]
+    F --> F2["Mechanism-first classification"]
+    F --> F3["Market-observed examples"]
+    F --> F4["Candidate categories for expansion"]
+    F --> F5["Open-source product atlas"]
+
+    classDef blueRoot fill:#0000FF,stroke:#000000,color:#FFFFFF,stroke-width:2px;
+    classDef blueNode fill:#EAF2FF,stroke:#0000FF,color:#000000,stroke-width:1.5px;
+    classDef blueMid fill:#D6E6FF,stroke:#0000FF,color:#000000,stroke-width:1.5px;
+    classDef blueLeaf fill:#F4F8FF,stroke:#0000FF,color:#000000,stroke-width:1px;
+
+    class A blueRoot;
+    class B,C,D,E,F blueMid;
+    class B1,B2,B3,B4,C1,C2,C3,C4,C5,D1,D2,D3,D4,D5,D6,E1,E2,E3,E4,E5,E6,F1,F2,F3,F4,F5 blueNode;
+    class C1a,C1b,C1c,C1d,C2a,C2b,C2c,C2d,C3a,C3b,C3c,C4a,C4b,C4c,C4d,C5a,C5b,C5c,C5d,D4a,D4b,D4c blueLeaf;
+
+    linkStyle default stroke:#0000FF,stroke-width:1.4px;
+```    
+
+
+---
+
 ## Product Taxonomy 
 
 | Transformation Family   | Product Category            | Representative Examples                                                                | Primary Mechanism                                            | Typical Use Case                                             | Notebook Status                    | Atlas Tags                                                         |
