@@ -1,0 +1,375 @@
+query_id,family_hint,category_hint,query_kind,query,popularity_priority
+mq-00001,collapsible,bowl,general,collapsible bowl official product,1
+mq-00002,collapsible,bowl,general,collapsible bowl product model,1
+mq-00003,collapsible,bowl,general,collapsible bowl manufacturer product,1
+mq-00004,collapsible,bowl,general,collapsible bowl buy product,1
+mq-00005,collapsible,bowl,general,collapsible bowl current model,1
+mq-00006,collapsible,bowl,known_official_site,site:sea2summit.com collapsible bowl product,1
+mq-00007,collapsible,bucket,general,collapsible bucket official product,1
+mq-00008,collapsible,bucket,general,collapsible bucket product model,1
+mq-00009,collapsible,bucket,general,collapsible bucket manufacturer product,1
+mq-00010,collapsible,bucket,general,collapsible bucket buy product,1
+mq-00011,collapsible,bucket,general,collapsible bucket current model,1
+mq-00012,collapsible,coffee cup,general,collapsible coffee cup official product,1
+mq-00013,collapsible,coffee cup,general,collapsible coffee cup product model,1
+mq-00014,collapsible,coffee cup,general,collapsible coffee cup manufacturer product,1
+mq-00015,collapsible,coffee cup,general,collapsible coffee cup buy product,1
+mq-00016,collapsible,coffee cup,general,collapsible coffee cup current model,1
+mq-00017,collapsible,coffee cup,known_official_site,site:stojo.co collapsible coffee cup product,1
+mq-00018,collapsible,cooler,general,collapsible cooler official product,1
+mq-00019,collapsible,cooler,general,collapsible cooler product model,1
+mq-00020,collapsible,cooler,general,collapsible cooler manufacturer product,1
+mq-00021,collapsible,cooler,general,collapsible cooler buy product,1
+mq-00022,collapsible,cooler,general,collapsible cooler current model,1
+mq-00023,collapsible,cup,general,collapsible cup official product,1
+mq-00024,collapsible,cup,general,collapsible cup product model,1
+mq-00025,collapsible,cup,general,collapsible cup manufacturer product,1
+mq-00026,collapsible,cup,general,collapsible cup buy product,1
+mq-00027,collapsible,cup,general,collapsible cup current model,1
+mq-00028,collapsible,cup,known_official_site,site:stojo.co collapsible cup product,1
+mq-00029,collapsible,cup,known_official_site,site:sea2summit.com collapsible cup product,1
+mq-00030,collapsible,food container,general,collapsible food container official product,1
+mq-00031,collapsible,food container,general,collapsible food container product model,1
+mq-00032,collapsible,food container,general,collapsible food container manufacturer product,1
+mq-00033,collapsible,food container,general,collapsible food container buy product,1
+mq-00034,collapsible,food container,general,collapsible food container current model,1
+mq-00035,collapsible,lantern,general,collapsible lantern official product,1
+mq-00036,collapsible,lantern,general,collapsible lantern product model,1
+mq-00037,collapsible,lantern,general,collapsible lantern manufacturer product,1
+mq-00038,collapsible,lantern,general,collapsible lantern buy product,1
+mq-00039,collapsible,lantern,general,collapsible lantern current model,1
+mq-00040,collapsible,laundry basket,general,collapsible laundry basket official product,1
+mq-00041,collapsible,laundry basket,general,collapsible laundry basket product model,1
+mq-00042,collapsible,laundry basket,general,collapsible laundry basket manufacturer product,1
+mq-00043,collapsible,laundry basket,general,collapsible laundry basket buy product,1
+mq-00044,collapsible,laundry basket,general,collapsible laundry basket current model,1
+mq-00045,collapsible,pet bowl,general,collapsible pet bowl official product,1
+mq-00046,collapsible,pet bowl,general,collapsible pet bowl product model,1
+mq-00047,collapsible,pet bowl,general,collapsible pet bowl manufacturer product,1
+mq-00048,collapsible,pet bowl,general,collapsible pet bowl buy product,1
+mq-00049,collapsible,pet bowl,general,collapsible pet bowl current model,1
+mq-00050,collapsible,soft flask,general,collapsible soft flask official product,1
+mq-00051,collapsible,soft flask,general,collapsible soft flask product model,1
+mq-00052,collapsible,soft flask,general,collapsible soft flask manufacturer product,1
+mq-00053,collapsible,soft flask,general,collapsible soft flask buy product,1
+mq-00054,collapsible,soft flask,general,collapsible soft flask current model,1
+mq-00055,collapsible,soft flask,known_official_site,site:hydrapak.com collapsible soft flask product,1
+mq-00056,collapsible,soft flask,known_official_site,site:salomon.com collapsible soft flask product,1
+mq-00057,collapsible,soft flask,known_official_site,site:camelbak.com collapsible soft flask product,1
+mq-00058,collapsible,storage bin,general,collapsible storage bin official product,1
+mq-00059,collapsible,storage bin,general,collapsible storage bin product model,1
+mq-00060,collapsible,storage bin,general,collapsible storage bin manufacturer product,1
+mq-00061,collapsible,storage bin,general,collapsible storage bin buy product,1
+mq-00062,collapsible,storage bin,general,collapsible storage bin current model,1
+mq-00063,collapsible,trekking pole,general,collapsible trekking pole official product,1
+mq-00064,collapsible,trekking pole,general,collapsible trekking pole product model,1
+mq-00065,collapsible,trekking pole,general,collapsible trekking pole manufacturer product,1
+mq-00066,collapsible,trekking pole,general,collapsible trekking pole buy product,1
+mq-00067,collapsible,trekking pole,general,collapsible trekking pole current model,1
+mq-00068,collapsible,trekking pole,known_official_site,site:leki.com collapsible trekking pole product,1
+mq-00069,collapsible,trekking pole,known_official_site,site:blackdiamondequipment.com collapsible trekking pole product,1
+mq-00070,collapsible,water bottle,general,collapsible water bottle official product,1
+mq-00071,collapsible,water bottle,general,collapsible water bottle product model,1
+mq-00072,collapsible,water bottle,general,collapsible water bottle manufacturer product,1
+mq-00073,collapsible,water bottle,general,collapsible water bottle buy product,1
+mq-00074,collapsible,water bottle,general,collapsible water bottle current model,1
+mq-00075,collapsible,water bottle,known_official_site,site:hydrapak.com collapsible water bottle product,1
+mq-00076,collapsible,water bottle,known_official_site,site:vapur.us collapsible water bottle product,1
+mq-00077,collapsible,water bottle,known_official_site,site:platypushydration.com collapsible water bottle product,1
+mq-00078,foldable,bluetooth keyboard,general,foldable bluetooth keyboard official product,1
+mq-00079,foldable,bluetooth keyboard,general,foldable bluetooth keyboard product model,1
+mq-00080,foldable,bluetooth keyboard,general,foldable bluetooth keyboard manufacturer product,1
+mq-00081,foldable,bluetooth keyboard,general,foldable bluetooth keyboard buy product,1
+mq-00082,foldable,bluetooth keyboard,general,foldable bluetooth keyboard current model,1
+mq-00083,foldable,camping chair,general,folding camping chair official product,1
+mq-00084,foldable,camping chair,general,folding camping chair product model,1
+mq-00085,foldable,camping chair,general,folding camping chair manufacturer product,1
+mq-00086,foldable,camping chair,general,folding camping chair buy product,1
+mq-00087,foldable,camping chair,general,folding camping chair current model,1
+mq-00088,foldable,camping table,general,folding camping table official product,1
+mq-00089,foldable,camping table,general,folding camping table product model,1
+mq-00090,foldable,camping table,general,folding camping table manufacturer product,1
+mq-00091,foldable,camping table,general,folding camping table buy product,1
+mq-00092,foldable,camping table,general,folding camping table current model,1
+mq-00093,foldable,drone,general,folding drone official product,1
+mq-00094,foldable,drone,general,folding drone product model,1
+mq-00095,foldable,drone,general,folding drone manufacturer product,1
+mq-00096,foldable,drone,general,folding drone buy product,1
+mq-00097,foldable,drone,general,folding drone current model,1
+mq-00098,foldable,drone,known_official_site,site:dji.com folding drone product,1
+mq-00099,foldable,drone,known_official_site,site:autelrobotics.com folding drone product,1
+mq-00100,foldable,foldable smartphone,general,foldable smartphone official product,1
+mq-00101,foldable,foldable smartphone,general,foldable smartphone product model,1
+mq-00102,foldable,foldable smartphone,general,foldable smartphone manufacturer product,1
+mq-00103,foldable,foldable smartphone,general,foldable smartphone buy product,1
+mq-00104,foldable,foldable smartphone,general,foldable smartphone current model,1
+mq-00105,foldable,foldable smartphone,known_official_site,site:samsung.com foldable smartphone product,1
+mq-00106,foldable,foldable smartphone,known_official_site,site:motorola.com foldable smartphone product,1
+mq-00107,foldable,foldable smartphone,known_official_site,site:oneplus.com foldable smartphone product,1
+mq-00108,foldable,foldable smartphone,known_official_site,site:google.com foldable smartphone product,1
+mq-00109,foldable,folding bicycle,general,folding bicycle official product,1
+mq-00110,foldable,folding bicycle,general,folding bicycle product model,1
+mq-00111,foldable,folding bicycle,general,folding bicycle manufacturer product,1
+mq-00112,foldable,folding bicycle,general,folding bicycle buy product,1
+mq-00113,foldable,folding bicycle,general,folding bicycle current model,1
+mq-00114,foldable,folding bicycle,known_official_site,site:montaguebikes.com folding bicycle product,1
+mq-00115,foldable,folding bicycle,known_official_site,site:brompton.com folding bicycle product,1
+mq-00116,foldable,folding bicycle,known_official_site,site:ternbicycles.com folding bicycle product,1
+mq-00117,foldable,folding bicycle,known_official_site,site:dahon.com folding bicycle product,1
+mq-00118,foldable,folding e-bike,general,folding electric bike official product,1
+mq-00119,foldable,folding e-bike,general,folding electric bike product model,1
+mq-00120,foldable,folding e-bike,general,folding electric bike manufacturer product,1
+mq-00121,foldable,folding e-bike,general,folding electric bike buy product,1
+mq-00122,foldable,folding e-bike,general,folding electric bike current model,1
+mq-00123,foldable,folding e-bike,known_official_site,site:gocycle.com folding electric bike product,1
+mq-00124,foldable,folding e-bike,known_official_site,site:lectricebikes.com folding electric bike product,1
+mq-00125,foldable,folding e-bike,known_official_site,site:radpowerbikes.com folding electric bike product,1
+mq-00126,foldable,folding e-bike,known_official_site,site:ternbicycles.com folding electric bike product,1
+mq-00127,foldable,headphones,general,foldable headphones official product,1
+mq-00128,foldable,headphones,general,foldable headphones product model,1
+mq-00129,foldable,headphones,general,foldable headphones manufacturer product,1
+mq-00130,foldable,headphones,general,foldable headphones buy product,1
+mq-00131,foldable,headphones,general,foldable headphones current model,1
+mq-00132,foldable,headphones,known_official_site,site:sony.com foldable headphones product,1
+mq-00133,foldable,headphones,known_official_site,site:bose.com foldable headphones product,1
+mq-00134,foldable,headphones,known_official_site,site:soundcore.com foldable headphones product,1
+mq-00135,foldable,headphones,known_official_site,site:sennheiser-hearing.com foldable headphones product,1
+mq-00136,foldable,solar panel,general,foldable solar panel official product,1
+mq-00137,foldable,solar panel,general,foldable solar panel product model,1
+mq-00138,foldable,solar panel,general,foldable solar panel manufacturer product,1
+mq-00139,foldable,solar panel,general,foldable solar panel buy product,1
+mq-00140,foldable,solar panel,general,foldable solar panel current model,1
+mq-00141,foldable,solar panel,known_official_site,site:goalzero.com foldable solar panel product,1
+mq-00142,foldable,solar panel,known_official_site,site:anker.com foldable solar panel product,1
+mq-00143,foldable,solar panel,known_official_site,site:ecoflow.com foldable solar panel product,1
+mq-00144,foldable,solar panel,known_official_site,site:jackery.com foldable solar panel product,1
+mq-00145,foldable,stroller,general,foldable stroller official product,1
+mq-00146,foldable,stroller,general,foldable stroller product model,1
+mq-00147,foldable,stroller,general,foldable stroller manufacturer product,1
+mq-00148,foldable,stroller,general,foldable stroller buy product,1
+mq-00149,foldable,stroller,general,foldable stroller current model,1
+mq-00150,foldable,treadmill,general,folding treadmill official product,1
+mq-00151,foldable,treadmill,general,folding treadmill product model,1
+mq-00152,foldable,treadmill,general,folding treadmill manufacturer product,1
+mq-00153,foldable,treadmill,general,folding treadmill buy product,1
+mq-00154,foldable,treadmill,general,folding treadmill current model,1
+mq-00155,foldable,wagon,general,folding wagon official product,1
+mq-00156,foldable,wagon,general,folding wagon product model,1
+mq-00157,foldable,wagon,general,folding wagon manufacturer product,1
+mq-00158,foldable,wagon,general,folding wagon buy product,1
+mq-00159,foldable,wagon,general,folding wagon current model,1
+mq-00160,modular,modular closet system,general,popular modular closet system official product,1
+mq-00161,modular,modular closet system,general,popular modular closet system popular product,1
+mq-00162,modular,modular closet system,general,popular modular closet system top rated product,1
+mq-00163,modular,modular closet system,general,popular modular closet system best brands,1
+mq-00164,modular,modular closet system,general,popular modular closet system current model,1
+mq-00165,modular,modular closet system,known_official_site,site:containerstore.com popular modular closet system product,1
+mq-00166,modular,modular closet system,known_official_site,site:ikea.com popular modular closet system product,1
+mq-00167,modular,modular closet system,known_official_site,site:homedepot.com popular modular closet system product,1
+mq-00168,modular,modular closet system,known_official_site,site:lowes.com popular modular closet system product,1
+mq-00169,modular,modular mechanical keyboard,general,modular mechanical keyboard official product,1
+mq-00170,modular,modular mechanical keyboard,general,modular mechanical keyboard popular product,1
+mq-00171,modular,modular mechanical keyboard,general,modular mechanical keyboard top rated product,1
+mq-00172,modular,modular mechanical keyboard,general,modular mechanical keyboard best brands,1
+mq-00173,modular,modular mechanical keyboard,general,modular mechanical keyboard current model,1
+mq-00174,modular,modular mechanical keyboard,known_official_site,site:keychron.com modular mechanical keyboard product,1
+mq-00175,modular,modular mechanical keyboard,known_official_site,site:gloriousgaming.com modular mechanical keyboard product,1
+mq-00176,modular,modular mechanical keyboard,known_official_site,site:drop.com modular mechanical keyboard product,1
+mq-00177,modular,modular power station,general,modular power station official product,1
+mq-00178,modular,modular power station,general,modular power station popular product,1
+mq-00179,modular,modular power station,general,modular power station top rated product,1
+mq-00180,modular,modular power station,general,modular power station best brands,1
+mq-00181,modular,modular power station,general,modular power station current model,1
+mq-00182,modular,modular power station,known_official_site,site:ecoflow.com modular power station product,1
+mq-00183,modular,modular power station,known_official_site,site:bluettipower.com modular power station product,1
+mq-00184,modular,modular power station,known_official_site,site:anker.com modular power station product,1
+mq-00185,modular,modular shelving,general,popular modular shelving official product,1
+mq-00186,modular,modular shelving,general,popular modular shelving popular product,1
+mq-00187,modular,modular shelving,general,popular modular shelving top rated product,1
+mq-00188,modular,modular shelving,general,popular modular shelving best brands,1
+mq-00189,modular,modular shelving,general,popular modular shelving current model,1
+mq-00190,modular,modular shelving,known_official_site,site:ikea.com popular modular shelving product,1
+mq-00191,modular,modular shelving,known_official_site,site:containerstore.com popular modular shelving product,1
+mq-00192,modular,modular shelving,known_official_site,site:wayfair.com popular modular shelving product,1
+mq-00193,modular,modular sofa,general,popular modular sofa official product,1
+mq-00194,modular,modular sofa,general,popular modular sofa popular product,1
+mq-00195,modular,modular sofa,general,popular modular sofa top rated product,1
+mq-00196,modular,modular sofa,general,popular modular sofa best brands,1
+mq-00197,modular,modular sofa,general,popular modular sofa current model,1
+mq-00198,modular,modular sofa,known_official_site,site:lovesac.com popular modular sofa product,1
+mq-00199,modular,modular sofa,known_official_site,site:burrow.com popular modular sofa product,1
+mq-00200,modular,modular sofa,known_official_site,site:ikea.com popular modular sofa product,1
+mq-00201,modular,modular sofa,known_official_site,site:wayfair.com popular modular sofa product,1
+mq-00202,modular,modular storage cubes,general,modular storage cubes official product,1
+mq-00203,modular,modular storage cubes,general,modular storage cubes popular product,1
+mq-00204,modular,modular storage cubes,general,modular storage cubes top rated product,1
+mq-00205,modular,modular storage cubes,general,modular storage cubes best brands,1
+mq-00206,modular,modular storage cubes,general,modular storage cubes current model,1
+mq-00207,modular,modular storage cubes,known_official_site,site:ikea.com modular storage cubes product,1
+mq-00208,modular,modular storage cubes,known_official_site,site:target.com modular storage cubes product,1
+mq-00209,modular,modular storage cubes,known_official_site,site:walmart.com modular storage cubes product,1
+mq-00210,modular,modular tool storage,general,popular modular tool storage official product,1
+mq-00211,modular,modular tool storage,general,popular modular tool storage popular product,1
+mq-00212,modular,modular tool storage,general,popular modular tool storage top rated product,1
+mq-00213,modular,modular tool storage,general,popular modular tool storage best brands,1
+mq-00214,modular,modular tool storage,general,popular modular tool storage current model,1
+mq-00215,modular,modular tool storage,known_official_site,site:dewalt.com popular modular tool storage product,1
+mq-00216,modular,modular tool storage,known_official_site,site:milwaukeetool.com popular modular tool storage product,1
+mq-00217,modular,modular tool storage,known_official_site,site:packout.milwaukeetool.com popular modular tool storage product,1
+mq-00218,origami,origami kayak,general,origami kayak official product,1
+mq-00219,origami,origami kayak,general,origami kayak product model,1
+mq-00220,origami,origami kayak,general,origami kayak manufacturer product,1
+mq-00221,origami,origami kayak,general,origami kayak buy product,1
+mq-00222,origami,origami kayak,general,origami kayak current model,1
+mq-00223,origami,origami kayak,known_official_site,site:orukayak.com origami kayak product,1
+mq-00224,rollable,dish drying rack,general,roll up dish drying rack official product,1
+mq-00225,rollable,dish drying rack,general,roll up dish drying rack product model,1
+mq-00226,rollable,dish drying rack,general,roll up dish drying rack manufacturer product,1
+mq-00227,rollable,dish drying rack,general,roll up dish drying rack buy product,1
+mq-00228,rollable,dish drying rack,general,roll up dish drying rack current model,1
+mq-00229,rollable,roll-top backpack,general,roll top backpack official product,1
+mq-00230,rollable,roll-top backpack,general,roll top backpack product model,1
+mq-00231,rollable,roll-top backpack,general,roll top backpack manufacturer product,1
+mq-00232,rollable,roll-top backpack,general,roll top backpack buy product,1
+mq-00233,rollable,roll-top backpack,general,roll top backpack current model,1
+mq-00234,rollable,roll-top camping table,general,roll top camping table official product,1
+mq-00235,rollable,roll-top camping table,general,roll top camping table product model,1
+mq-00236,rollable,roll-top camping table,general,roll top camping table manufacturer product,1
+mq-00237,rollable,roll-top camping table,general,roll top camping table buy product,1
+mq-00238,rollable,roll-top camping table,general,roll top camping table current model,1
+mq-00239,rollable,solar charger,general,roll up solar charger official product,1
+mq-00240,rollable,solar charger,general,roll up solar charger product model,1
+mq-00241,rollable,solar charger,general,roll up solar charger manufacturer product,1
+mq-00242,rollable,solar charger,general,roll up solar charger buy product,1
+mq-00243,rollable,solar charger,general,roll up solar charger current model,1
+mq-00244,rollable,solar charger,known_official_site,site:powerfilmsolar.com roll up solar charger product,1
+mq-00245,rollable,solar charger,known_official_site,site:renogy.com roll up solar charger product,1
+mq-00246,collapsible,measuring cups,general,collapsible measuring cups official product,2
+mq-00247,collapsible,measuring cups,general,collapsible measuring cups product model,2
+mq-00248,collapsible,measuring cups,general,collapsible measuring cups manufacturer product,2
+mq-00249,collapsible,measuring cups,general,collapsible measuring cups buy product,2
+mq-00250,collapsible,measuring cups,general,collapsible measuring cups current model,2
+mq-00251,collapsible,traffic cone,general,collapsible traffic cone official product,2
+mq-00252,collapsible,traffic cone,general,collapsible traffic cone product model,2
+mq-00253,collapsible,traffic cone,general,collapsible traffic cone manufacturer product,2
+mq-00254,collapsible,traffic cone,general,collapsible traffic cone buy product,2
+mq-00255,collapsible,traffic cone,general,collapsible traffic cone current model,2
+mq-00256,foldable,bicycle helmet,general,foldable bicycle helmet official product,2
+mq-00257,foldable,bicycle helmet,general,foldable bicycle helmet product model,2
+mq-00258,foldable,bicycle helmet,general,foldable bicycle helmet manufacturer product,2
+mq-00259,foldable,bicycle helmet,general,foldable bicycle helmet buy product,2
+mq-00260,foldable,bicycle helmet,general,foldable bicycle helmet current model,2
+mq-00261,foldable,computer mouse,general,foldable computer mouse official product,2
+mq-00262,foldable,computer mouse,general,foldable computer mouse product model,2
+mq-00263,foldable,computer mouse,general,foldable computer mouse manufacturer product,2
+mq-00264,foldable,computer mouse,general,foldable computer mouse buy product,2
+mq-00265,foldable,computer mouse,general,foldable computer mouse current model,2
+mq-00266,foldable,computer mouse,known_official_site,site:microsoft.com foldable computer mouse product,2
+mq-00267,foldable,foldable display,general,foldable display official product,2
+mq-00268,foldable,foldable display,general,foldable display product model,2
+mq-00269,foldable,foldable display,general,foldable display manufacturer product,2
+mq-00270,foldable,foldable display,general,foldable display buy product,2
+mq-00271,foldable,foldable display,general,foldable display current model,2
+mq-00272,foldable,foldable display,known_official_site,site:samsung.com foldable display product,2
+mq-00273,foldable,foldable display,known_official_site,site:lg.com foldable display product,2
+mq-00274,foldable,foldable display,known_official_site,site:lenovo.com foldable display product,2
+mq-00275,foldable,foldable display,known_official_site,site:asus.com foldable display product,2
+mq-00276,foldable,foldable laptop,general,foldable OLED laptop official product,2
+mq-00277,foldable,foldable laptop,general,foldable OLED laptop product model,2
+mq-00278,foldable,foldable laptop,general,foldable OLED laptop manufacturer product,2
+mq-00279,foldable,foldable laptop,general,foldable OLED laptop buy product,2
+mq-00280,foldable,foldable laptop,general,foldable OLED laptop current model,2
+mq-00281,foldable,foldable laptop,known_official_site,site:lenovo.com foldable OLED laptop product,2
+mq-00282,foldable,foldable laptop,known_official_site,site:asus.com foldable OLED laptop product,2
+mq-00283,foldable,foldable laptop,known_official_site,site:hp.com foldable OLED laptop product,2
+mq-00284,foldable,portable monitor,general,foldable monitor official product,2
+mq-00285,foldable,portable monitor,general,foldable monitor product model,2
+mq-00286,foldable,portable monitor,general,foldable monitor manufacturer product,2
+mq-00287,foldable,portable monitor,general,foldable monitor buy product,2
+mq-00288,foldable,portable monitor,general,foldable monitor current model,2
+mq-00289,foldable,wheelchair,general,folding wheelchair official product,2
+mq-00290,foldable,wheelchair,general,folding wheelchair product model,2
+mq-00291,foldable,wheelchair,general,folding wheelchair manufacturer product,2
+mq-00292,foldable,wheelchair,general,folding wheelchair buy product,2
+mq-00293,foldable,wheelchair,general,folding wheelchair current model,2
+mq-00294,modular,modular backpack,general,modular backpack official product,2
+mq-00295,modular,modular backpack,general,modular backpack popular product,2
+mq-00296,modular,modular backpack,general,modular backpack top rated product,2
+mq-00297,modular,modular backpack,general,modular backpack best brands,2
+mq-00298,modular,modular backpack,general,modular backpack current model,2
+mq-00299,modular,modular backpack,known_official_site,site:peakdesign.com modular backpack product,2
+mq-00300,modular,modular backpack,known_official_site,site:boundarysupply.com modular backpack product,2
+mq-00301,modular,modular desk,general,popular modular desk official product,2
+mq-00302,modular,modular desk,general,popular modular desk popular product,2
+mq-00303,modular,modular desk,general,popular modular desk top rated product,2
+mq-00304,modular,modular desk,general,popular modular desk best brands,2
+mq-00305,modular,modular desk,general,popular modular desk current model,2
+mq-00306,modular,modular desk,known_official_site,site:ikea.com popular modular desk product,2
+mq-00307,modular,modular desk,known_official_site,site:upliftdesk.com popular modular desk product,2
+mq-00308,modular,modular desk,known_official_site,site:vari.com popular modular desk product,2
+mq-00309,modular,modular laptop,general,modular laptop official product,2
+mq-00310,modular,modular laptop,general,modular laptop popular product,2
+mq-00311,modular,modular laptop,general,modular laptop top rated product,2
+mq-00312,modular,modular laptop,general,modular laptop best brands,2
+mq-00313,modular,modular laptop,general,modular laptop current model,2
+mq-00314,modular,modular laptop,known_official_site,site:frame.work modular laptop product,2
+mq-00315,modular,modular phone,general,modular phone official product,2
+mq-00316,modular,modular phone,general,modular phone popular product,2
+mq-00317,modular,modular phone,general,modular phone top rated product,2
+mq-00318,modular,modular phone,general,modular phone best brands,2
+mq-00319,modular,modular phone,general,modular phone current model,2
+mq-00320,modular,modular phone,known_official_site,site:fairphone.com modular phone product,2
+mq-00321,origami,origami canoe,general,origami canoe official product,2
+mq-00322,origami,origami canoe,general,origami canoe product model,2
+mq-00323,origami,origami canoe,general,origami canoe manufacturer product,2
+mq-00324,origami,origami canoe,general,origami canoe buy product,2
+mq-00325,origami,origami canoe,general,origami canoe current model,2
+mq-00326,origami,origami canoe,known_official_site,site:oricanoe.com origami canoe product,2
+mq-00327,origami,origami furniture,general,origami furniture official product,2
+mq-00328,origami,origami furniture,general,origami furniture product model,2
+mq-00329,origami,origami furniture,general,origami furniture manufacturer product,2
+mq-00330,origami,origami furniture,general,origami furniture buy product,2
+mq-00331,origami,origami furniture,general,origami furniture current model,2
+mq-00332,origami,origami lamp,general,origami lamp official product,2
+mq-00333,origami,origami lamp,general,origami lamp product model,2
+mq-00334,origami,origami lamp,general,origami lamp manufacturer product,2
+mq-00335,origami,origami lamp,general,origami lamp buy product,2
+mq-00336,origami,origami lamp,general,origami lamp current model,2
+mq-00337,origami,paper microscope,general,foldscope official product,2
+mq-00338,origami,paper microscope,general,foldscope product model,2
+mq-00339,origami,paper microscope,general,foldscope manufacturer product,2
+mq-00340,origami,paper microscope,general,foldscope buy product,2
+mq-00341,origami,paper microscope,general,foldscope current model,2
+mq-00342,origami,paper microscope,known_official_site,site:foldscope.com foldscope product,2
+mq-00343,rollable,drum kit,general,roll up drum kit official product,2
+mq-00344,rollable,drum kit,general,roll up drum kit product model,2
+mq-00345,rollable,drum kit,general,roll up drum kit manufacturer product,2
+mq-00346,rollable,drum kit,general,roll up drum kit buy product,2
+mq-00347,rollable,drum kit,general,roll up drum kit current model,2
+mq-00348,rollable,keyboard,general,rollable keyboard official product,2
+mq-00349,rollable,keyboard,general,rollable keyboard product model,2
+mq-00350,rollable,keyboard,general,rollable keyboard manufacturer product,2
+mq-00351,rollable,keyboard,general,rollable keyboard buy product,2
+mq-00352,rollable,keyboard,general,rollable keyboard current model,2
+mq-00353,rollable,piano keyboard,general,roll up piano keyboard official product,2
+mq-00354,rollable,piano keyboard,general,roll up piano keyboard product model,2
+mq-00355,rollable,piano keyboard,general,roll up piano keyboard manufacturer product,2
+mq-00356,rollable,piano keyboard,general,roll up piano keyboard buy product,2
+mq-00357,rollable,piano keyboard,general,roll up piano keyboard current model,2
+mq-00358,origami,origami packaging,general,origami packaging product official product,3
+mq-00359,origami,origami packaging,general,origami packaging product product model,3
+mq-00360,origami,origami packaging,general,origami packaging product manufacturer product,3
+mq-00361,origami,origami packaging,general,origami packaging product buy product,3
+mq-00362,origami,origami packaging,general,origami packaging product current model,3
+mq-00363,origami,origami robot kit,general,origami robot kit official product,3
+mq-00364,origami,origami robot kit,general,origami robot kit product model,3
+mq-00365,origami,origami robot kit,general,origami robot kit manufacturer product,3
+mq-00366,origami,origami robot kit,general,origami robot kit buy product,3
+mq-00367,origami,origami robot kit,general,origami robot kit current model,3
+mq-00368,rollable,rollable display,general,rollable display official product,3
+mq-00369,rollable,rollable display,general,rollable display product model,3
+mq-00370,rollable,rollable display,general,rollable display manufacturer product,3
+mq-00371,rollable,rollable display,general,rollable display buy product,3
+mq-00372,rollable,rollable display,general,rollable display current model,3
+mq-00373,rollable,rollable display,known_official_site,site:lg.com rollable display product,3
+mq-00374,rollable,rollable display,known_official_site,site:samsung.com rollable display product,3
