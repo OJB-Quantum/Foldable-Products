@@ -7,6 +7,7 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 
 ---
 
+```mermaid
 flowchart TD
     A["Compact-Transform Products"]
 
@@ -47,7 +48,7 @@ flowchart TD
     class B1,B2,C1,C2,C3,C4,C5,D1,D2,D3,E1,E2,E3,F1,F2,F3,F4 leaf;
 
     linkStyle default stroke:#0000FF,stroke-width:1.4px;
-
+```
 
 ---
 
