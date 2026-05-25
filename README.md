@@ -7,6 +7,11 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 
 ---
 
+<img width="4414" height="auto" alt="And Compact Flow-2026-05-25-041411" src="https://github.com/user-attachments/assets/f74cb183-a5db-4133-bae3-a174c9450e5a" />
+
+
+---
+
 ## Product Taxonomy 
 
 | Transformation Family   | Product Category            | Representative Examples                                                                | Primary Mechanism                                            | Typical Use Case                                             | Notebook Status                    | Atlas Tags                                                         |
