@@ -7,8 +7,8 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 
 ---
 
-```
 flowchart TD
+```
     A["Foldable, Collapsible, and Compact-Transform Products"]
 
     A --> B["Core Value"]
