@@ -8,7 +8,8 @@ I think foldable and collapsible products are not only fun, but can have a lot o
 ---
 
 ```mermaid
-flowchart TD
+%%{init: {'theme': 'default', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Tahoma, DejaVu Sans, sans-serif' }}}%%
+flowchart LR
     A["Compact-Transform Products"]
 
     A --> B["Core Thesis"]
